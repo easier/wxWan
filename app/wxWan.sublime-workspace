@@ -1,0 +1,1159 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rem",
+				"remove	.remove()"
+			],
+			[
+				"f",
+				"f	Anonymous Function"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"btn",
+				"btn-default"
+			],
+			[
+				"bs3-table",
+				"bs3-table:striped	bs3-table-striped"
+			],
+			[
+				"bs3",
+				"bs3-modal	bs3-modal"
+			],
+			[
+				"bs3-col",
+				"bs3-col:2	bs3-col-2"
+			],
+			[
+				"e",
+				"elseif	elseif …"
+			],
+			[
+				"c",
+				"class"
+			],
+			[
+				"pa",
+				"panel"
+			],
+			[
+				"b",
+				"breadcrumb"
+			],
+			[
+				"bo",
+				"media-body"
+			],
+			[
+				"bst",
+				"bootstrap"
+			],
+			[
+				"bs3-",
+				"bs3-thumbnail:content	bs3-thumbnail-content"
+			],
+			[
+				"bst-alert",
+				"bst-alert	bst-alert"
+			],
+			[
+				"slde",
+				"slideDown	.slideDown()"
+			],
+			[
+				"scr",
+				"score"
+			],
+			[
+				"thumb",
+				"thumbImg"
+			],
+			[
+				"animate",
+				"animation	Style CSS"
+			],
+			[
+				"anima",
+				"animate	.animate() with callback"
+			],
+			[
+				"if",
+				"if()"
+			],
+			[
+				"si",
+				"siblings	.siblings()"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"das",
+				"dashed"
+			],
+			[
+				"bc",
+				"bdcl-c	border-collapse: collapse;"
+			],
+			[
+				"ov",
+				"ovy	overflow-y: ${1:hidden};"
+			],
+			[
+				"h",
+				"height	.height()"
+			],
+			[
+				"w",
+				"width	.width()"
+			],
+			[
+				"top",
+				"top	Window"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"y",
+				"yellow"
+			],
+			[
+				"ye",
+				"yellFont"
+			],
+			[
+				"togg",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"ready",
+				"ready	$(document).ready"
+			],
+			[
+				"doc",
+				"document	Document"
+			],
+			[
+				"rea",
+				"ready	$(document).ready"
+			],
+			[
+				"li",
+				"lightBtn"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"css",
+				"css	.css() - single"
+			],
+			[
+				"cli",
+				"click	.click()"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"attr",
+				"attr	.attr() - single"
+			],
+			[
+				"atr",
+				"attr	.attr() - single"
+			],
+			[
+				"par",
+				"parent	.parent()"
+			],
+			[
+				"pe",
+				"pagehide	Event"
+			],
+			[
+				"cl",
+				"click	.click()"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"wed",
+				"wedding_time"
+			],
+			[
+				"boo",
+				"bottom"
+			],
+			[
+				"wedding_",
+				"wedding_time_height"
+			],
+			[
+				"mar",
+				"marginTop	Style CSS"
+			],
+			[
+				"img",
+				"images"
+			],
+			[
+				"pase",
+				"pause	Event"
+			],
+			[
+				"toggle",
+				"toggle	.toggle()"
+			],
+			[
+				"md",
+				"media"
+			],
+			[
+				"br",
+				"border-radius"
+			],
+			[
+				"bd",
+				"bd	border"
+			],
+			[
+				"bgs",
+				"background-size"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"ta",
+				"text-align"
+			],
+			[
+				"ti",
+				"text-indent"
+			],
+			[
+				"tal",
+				"ta-l	text-align: left;"
+			],
+			[
+				"t",
+				"table-cell"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"tab",
+				"table-row"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"bg-s",
+				"background-size"
+			],
+			[
+				"reo",
+				"removeClass	.removeClass()"
+			],
+			[
+				"use",
+				"use strict';	'use strict';"
+			],
+			[
+				"getEli",
+				"getElementById(${0:id})	Element"
+			],
+			[
+				"sl",
+				"slideDown	.slideDown()"
+			],
+			[
+				"cu",
+				"current"
+			],
+			[
+				"remo",
+				"removeClass	.removeClass()"
+			],
+			[
+				"curr",
+				"currentPage"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"job",
+				"jobCont"
+			],
+			[
+				"slide",
+				"slideDown	.slideDown()"
+			],
+			[
+				"jobL",
+				"jobLocation"
+			],
+			[
+				"slide1",
+				"slide1Width"
+			],
+			[
+				"auto",
+				"autoSlide"
+			],
+			[
+				"sld",
+				"slideme"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"sli",
+				"slideme"
+			],
+			[
+				"au",
+				"autoSlide"
+			],
+			[
+				"mous",
+				"mouseover	.mouseover()"
+			],
+			[
+				"each",
+				"each	.each()"
+			],
+			[
+				"of",
+				"overflow"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"case",
+				"caseInfo"
+			],
+			[
+				"ls",
+				"list-style"
+			],
+			[
+				"res",
+				"resize	.resize()"
+			],
+			[
+				"ps",
+				"position"
+			],
+			[
+				"pl",
+				"padding-left"
+			],
+			[
+				"bb",
+				"border-bottom"
+			],
+			[
+				"mt",
+				"margin-top"
+			],
+			[
+				"ml",
+				"margin-left"
+			],
+			[
+				"me",
+				"media"
+			],
+			[
+				"s",
+				"sans-serif"
+			],
+			[
+				"bl",
+				"border-left"
+			],
+			[
+				"fad",
+				"fadeOut	.fadeOut()"
+			],
+			[
+				"conta",
+				"container"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"fsi",
+				"font-size"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"pt",
+				"padding-top"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"lh",
+				"line-height"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.jade",
+			"settings":
+			{
+				"buffer_size": 218,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"cs",
+				"Set Syntax: CSS"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"romove",
+				"Package Control: Remove Package"
+			],
+			[
+				":",
+				":w - Save"
+			],
+			[
+				":q",
+				"Set Syntax: jQuery (JavaScript)"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 589.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Project/trynet/siteWan/app/xxzl.html",
+		"/E/Project/trynet/siteWan/app/tjzx.html",
+		"/E/Project/trynet/siteWan/app/ggzj.html",
+		"/E/Project/trynet/siteWan/app/xsgg.html",
+		"/E/Project/trynet/siteWan/app/ggbn.html",
+		"/E/Project/trynet/siteWan/app/lrxq.html",
+		"/E/Project/trynet/siteWan/html/tjzx.html",
+		"/E/Project/trynet/siteWan/app/less/_bootstrap.less",
+		"/E/Project/trynet/siteWan/app/less/less/modals.less",
+		"/E/Project/trynet/siteWan/html/ggbn.html",
+		"/E/Project/trynet/siteWan/app/less/custome.less",
+		"/E/Project/trynet/siteWan/app/less/main.less",
+		"/E/Project/trynet/siteWan/app/less/_roots.less",
+		"/E/Project/trynet/siteWan/less/_bootstrap.less",
+		"/E/Project/trynet/siteWan/less/main.less",
+		"/E/Project/trynet/siteWan/less/_roots.less",
+		"/E/Project/trynet/siteWan/less/custome.less",
+		"/E/Project/trynet/siteWan/html/css/main.min.css",
+		"/E/Project/Inphp/wedding/index.php",
+		"/E/Project/trynet/lily/app/less/_lily.less",
+		"/E/Project/trynet/lily/app/less/roots/logig.less",
+		"/E/Project/trynet/aJia/wddz.html",
+		"/E/Project/trynet/lily/app/less/custome.less",
+		"/E/Project/trynet/lily/app/grzl.html",
+		"/E/Project/trynet/lily/app/wddd.html",
+		"/E/Project/trynet/lily/app/page.html",
+		"/E/Project/trynet/lily/app/less/less/utilities.less",
+		"/E/Project/trynet/lily/app/wdjf.html",
+		"/E/Project/trynet/lily/app/wddz.html",
+		"/E/Project/trynet/lily/app/wdsc.html",
+		"/E/Project/trynet/lily/app/less/roots/grid.less",
+		"/E/Project/trynet/lily/app/js/site.js",
+		"/E/Project/trynet/lily/app/wdqb.html",
+		"/E/Project/trynet/lily/app/less/less/pagination.less",
+		"/E/Programs Files/St2/Data/Packages/Bootstrap 3 Snippets/README.md",
+		"/E/Project/trynet/lily/app/wdcz.html",
+		"/E/Project/trynet/lily/app/wdcs.html",
+		"/E/Programs Files/St2/Data/Packages/User/Preferences.sublime-settings",
+		"/E/Project/trynet/lily/html/js/site.js",
+		"/E/Project/trynet/lily/html/test.html",
+		"/E/Project/trynet/lily/app/test.php",
+		"/E/Project/trynet/lily/html/page.html",
+		"/E/Project/trynet/lily/app/less/main.less",
+		"/E/Project/trynet/lily/app/less/roots/custome.less",
+		"/E/Project/trynet/lily/app/less/_roots.less",
+		"/E/Project/trynet/lily/gulpfile.js",
+		"/E/Project/trynet/lily/app/shdz.jade",
+		"/E/Project/trynet/lily/app/page.jade",
+		"/E/Project/trynet/lily/html/index.html",
+		"/E/Project/trynet/lily/app/less/_bootstrap.less",
+		"/E/Project/trynet/lily/app/shdz.jad",
+		"/E/Project/trynet/lily/app/less/roots/variables.less",
+		"/E/Project/trynet/lily/app/less/less/buttons.less",
+		"/E/Project/trynet/lily/app/less/less/mixins/buttons.less",
+		"/E/Project/trynet/lily/app/less/roots/grids.less",
+		"/E/Project/trynet/siteAjia/app/css/_custome.less",
+		"/E/Project/trynet/siteAjia/ajiaHtml/js/datepicker.zh-CN.js",
+		"/E/Project/trynet/siteAjia/app/page.html",
+		"/E/Project/trynet/siteAjia/app/order2.html",
+		"/E/Project/trynet/siteAjia/app/cart2.html",
+		"/E/Project/trynet/siteAjia/app/js/cart.js",
+		"/E/Project/trynet/meila/app/js/site.js",
+		"/E/Project/trynet/siteAjia/app/css/_bootstrap.less",
+		"/E/Project/trynet/siteAjia/siteAjia.sublime-project",
+		"/E/Project/trynet/siteAjia/app/personal.html",
+		"/E/Project/trynet/trynet/script/trynet.js",
+		"/E/Project/trynet/siteAjia/app/cart3.html",
+		"/E/Project/trynet/siteAjia/ajiaHtml/cart2.html",
+		"/E/Project/trynet/siteAjia/ajiaHtml/personal.html",
+		"/E/Project/trynet/meila/app/member.html",
+		"/E/Project/trynet/meila/app/reserve.html",
+		"/E/Project/trynet/siteAjia/app/cart1.html",
+		"/E/Project/trynet/siteAjia/ajiaHtml/success.html",
+		"/E/Project/trynet/siteAjia/ajiaHtml/cart3.html",
+		"/E/Project/trynet/siteAjia/ajiaHtml/cart1.html",
+		"/E/Project/trynet/siteAjia/app/js/site.js",
+		"/E/Project/trynet/siteAjia/ajiaHtml/aboutJob.html",
+		"/E/Project/trynet/siteAjia/ajiaHtml/prodCont.html",
+		"/E/Project/trynet/siteAjia/app/success.html",
+		"/E/Project/trynet/siteAjia/ajiaHtml/aboutAdvise.html",
+		"/E/Project/trynet/siteAjia/ajiaHtml/market+.html",
+		"/E/Project/trynet/siteAjia/ajiaHtml/page.html",
+		"/E/Project/trynet/siteAjia/ajiaHtml/market.html",
+		"/E/Project/trynet/siteAjia/ajiaHtml/items/8.html",
+		"/E/Project/trynet/siteAjia/app/items.html",
+		"/E/Project/trynet/siteAjia/app/css/less/variables.less",
+		"/E/Project/trynet/siteAjia/app/hotel.html",
+		"/E/Project/trynet/siteAjia/app/css/less/forms.less",
+		"/E/Project/trynet/siteAjia/ajiaHtml/class.html",
+		"/E/Project/trynet/siteAjia/app/reg.html",
+		"/E/Project/trynet/siteAjia/ajiaHtml/hotel.html",
+		"/E/Project/trynet/siteAjia/app/prodList.html",
+		"/E/Project/trynet/siteAjia/ajiaHtml/css/jquery.fs.boxer.css",
+		"/E/Project/trynet/siteAjia/app/class.html",
+		"/E/Project/trynet/siteAjia/app/pretty.html",
+		"/E/Project/trynet/siteAjia/ajiaHtml/pretty.html",
+		"/E/Project/trynet/wxStart/index.jade",
+		"/E/Project/trynet/siteAjia/ajiaHtml/css/glide.css",
+		"/E/Project/trynet/siteAjia/ajiaHtml/aboutIdea.html",
+		"/E/Project/trynet/siteAjia/ajiaHtml/items/7.html",
+		"/E/Project/trynet/siteAjia/ajiaHtml/items/6.html",
+		"/E/Project/trynet/siteAjia/ajiaHtml/items/5.html",
+		"/E/Project/trynet/siteAjia/ajiaHtml/items/4.html",
+		"/E/Project/trynet/siteAjia/ajiaHtml/items/3.html",
+		"/E/Project/trynet/siteAjia/ajiaHtml/items/2.html",
+		"/E/Project/trynet/siteAjia/ajiaHtml/items/1.html",
+		"/E/Project/trynet/siteAjia/app/items/1.html",
+		"/E/Project/trynet/siteAjia/ajiaHtml/forget.html",
+		"/E/Project/trynet/siteAjia/ajiaHtml/items.html",
+		"/E/Project/trynet/siteAjia/ajiaHtml/login.html",
+		"/E/Project/trynet/siteAjia/ajiaHtml/order2.html",
+		"/E/Project/trynet/siteAjia/ajiaHtml/order1.html",
+		"/E/Project/trynet/siteAjia/ajiaHtml/order.html",
+		"/E/Project/trynet/siteAjia/ajiaHtml/news.html",
+		"/E/Project/trynet/siteAjia/ajiaHtml/news+.html",
+		"/E/Project/trynet/meila/app/service.html",
+		"/E/Project/trynet/meila/app/css/_custome.less",
+		"/E/Project/trynet/meila/app/css/_frame.less",
+		"/C/Users/et-301/Desktop/register.html",
+		"/E/Project/trynet/wxStart/index.html",
+		"/E/Project/trynet/meila/app/css/frame.less",
+		"/E/Project/trynet/meila/app/myCheck.html",
+		"//192.168.0.120/共享/dist/css/main.min.css",
+		"/E/Project/trynet/meila/app/css/xwj.less",
+		"/E/Project/trynet/meila/dist/myCart.html",
+		"/E/Project/trynet/meila/app/reserve0.html",
+		"/E/Project/trynet/meila/node_modules/gulp-less/node_modules/less/test/css/extend-media.css",
+		"/E/Project/trynet/meila/app/iCenter.html"
+	],
+	"find":
+	{
+		"height": 46.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"E:\\Project\\trynet\\meila\\app",
+			"E:\\Project\\trynet\\tryJs"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"page_r",
+			"h1",
+			"logo",
+			"50%",
+			"{\n",
+			"col-md-",
+			"h3",
+			"h2h3",
+			";\n",
+			"bottom",
+			"select",
+			"data",
+			"width",
+			"&nbsp;",
+			"\"\">",
+			"dsfdsafsd",
+			";\n",
+			".title",
+			";\n",
+			">\n",
+			"grzx",
+			"price",
+			"></a>",
+			"><",
+			"Score",
+			"footer",
+			"border-radius-base",
+			"border-radius",
+			"btn-",
+			"ajiaHtml",
+			"htmlCopy",
+			"ajiaHtml",
+			".score",
+			".score ",
+			".order",
+			"score",
+			">\n",
+			"addPrice",
+			"seleSpec",
+			"form-group",
+			"form-control",
+			"form-cont",
+			"prodCont",
+			"addPlus",
+			"col-md",
+			"<a",
+			"</a>",
+			"a",
+			".score",
+			"href=\"\" ",
+			"href=\"\"",
+			"pingjia",
+			"index",
+			"top",
+			"cartTable",
+			"$(this).siblings().removeClass('curr');",
+			"toFixed",
+			">\n",
+			".curr",
+			";\n",
+			"prodImg",
+			">\n",
+			"@line-height-computed",
+			"height",
+			"form-group",
+			"md",
+			"></",
+			"ul",
+			"h1",
+			"container",
+			"H1",
+			"order",
+			"aboutSer",
+			"750px",
+			"wrapper",
+			"hotel",
+			"boxer-container",
+			"boxer-content",
+			"overflow: hidden;",
+			"border-radius",
+			"background: #ffffff;",
+			"10px",
+			"class",
+			"about",
+			"advise",
+			"prodInfo",
+			"px",
+			"	\n",
+			"#service",
+			"#myCart",
+			";\n",
+			"itemsList",
+			"wrapper",
+			"/images",
+			"image",
+			"images",
+			"service",
+			"11、允许用户添加到主屏幕，并提",
+			"service",
+			"theme",
+			"mangu",
+			"dist",
+			"sprice",
+			"index",
+			"></",
+			"tPrice",
+			"size",
+			"getTotal",
+			".wrapper",
+			"cart",
+			"myCart",
+			"text-overflow: ellipsis;",
+			"ecli",
+			".wrapper",
+			"28",
+			"service",
+			"../images/",
+			".logo",
+			"/*",
+			"container",
+			"activity",
+			"activi",
+			"activity",
+			"#activity",
+			";\n",
+			"</dd>",
+			"</dt>",
+			"x_bg"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"col-xs",
+			"/img",
+			"ajiaHtml",
+			"45px",
+			"<a href=\"\"><img src=\"http://placehold.it/400X237\" alt=\"\"></a>",
+			"back-home"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.jade",
+					"settings":
+					{
+						"buffer_size": 218,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								173,
+								173
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 43.0
+	},
+	"input":
+	{
+		"height": 47.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 82.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"ggbn",
+				"app/ggbn.html"
+			],
+			[
+				"cus",
+				"app/less/custome.less"
+			],
+			[
+				"page.html",
+				"html/page.html"
+			],
+			[
+				"bootst",
+				"app/less/_bootstrap.less"
+			],
+			[
+				"cart1",
+				"ajiaHtml/cart1.html"
+			],
+			[
+				"per",
+				"app/personal.html"
+			],
+			[
+				"page",
+				"ajiaHtml/page.html"
+			],
+			[
+				"hote",
+				"ajiaHtml/hotel.html"
+			],
+			[
+				"pers",
+				"app/personal.html"
+			],
+			[
+				"aboutjob",
+				"ajiaHtml/aboutJob.html"
+			],
+			[
+				"clas",
+				"ajiaHtml/class.html"
+			],
+			[
+				"personal",
+				"app/personal.html"
+			],
+			[
+				"order",
+				"app/order2.html"
+			],
+			[
+				"item",
+				"app/items.html"
+			],
+			[
+				"prodc",
+				"ajiaHtml/prodCont.html"
+			],
+			[
+				"ar",
+				"app/article.html"
+			],
+			[
+				"article",
+				"app/article.html"
+			],
+			[
+				"cu",
+				"app/css/_custome.less"
+			],
+			[
+				"artic",
+				"app/article.html"
+			],
+			[
+				"res",
+				"app/reserve.html"
+			],
+			[
+				"reserv",
+				"app/reserve.html"
+			],
+			[
+				"em",
+				"node_modules/gulp-less/node_modules/less/test/css/extend-media.css"
+			],
+			[
+				"ic",
+				"app/iCenter.html"
+			],
+			[
+				"main.js",
+				"app/js/main.js"
+			],
+			[
+				"gu",
+				"gulpfile.js"
+			],
+			[
+				"css",
+				"node_modules/gulp-less/node_modules/less/.idea/codeStyleSettings.xml"
+			],
+			[
+				"shar",
+				"share.html"
+			],
+			[
+				"geto",
+				"getOne.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 291.0,
+	"status_bar_visible": true
+}
