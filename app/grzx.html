@@ -25,38 +25,33 @@ document.addEventListener('touchmove', function (e) { e.preventDefault(); }, fal
 
 </script>
 
-<style type="text/css">
-
-
-</style>
 </head>
 <body onload="loaded()">
 
 <div id="wrapper">
-	<div id="scroller" class="xsgg">
-		<h1>
-			<img src="images/bg01.png">
-		</h1>
-		<ul>
-			<li>Pretty row 1</li>
-			<li>Pretty row 2</li>
-			<li>Pretty row 3</li>
-			<li>Pretty row 4</li>
-			<li>Pretty row 5</li>
-			<li>Pretty row 6</li>
-			<li>Pretty row 7</li>
-			<li>Pretty row 8</li>
-			<li>Pretty row 9</li>
-			<li>Pretty row 10</li>
-			<li>Pretty row 11</li>
-			<li>Pretty row 12</li>
-			<li>Pretty row 13</li>
-			<li>Pretty row 14</li>
-			<li>Pretty row 15</li>
-			<li>Pretty row 16</li>
-
-
-		</ul>
+	<div id="scroller">
+		<div class="container">
+			<dl class="gapList">
+				<dt><span>个人信息</span></dt>
+				<dd><span>姓 名：</span>李小白</dd>
+				<dd><span>电话：</span></dd>
+				<dd><span>所属行业：</span></dd>
+				<dd><span>从业时间：</span></dd>
+			</dl>
+			<div class="gapFooter row">
+				<a href="" class="btn btn-primary">修 改</a>
+			</div>
+			<dl class="gapList">
+				<dt>个人信息</dt>
+				<dd>姓名：李小白</dd>
+				<dd>电话</dd>
+				<dd>所属行业</dd>
+				<dd>从业时间</dd>
+			</dl>
+			<div class="gapFooter" style="margin-bottom: 50px">
+				<a href="" class="btn btn-primary">修 改</a>
+			</div>
+		</div>
 	</div>
 </div>
 

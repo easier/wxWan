@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+
+<title>主页</title>
+<link rel="stylesheet" type="text/css" href="css/main.css">
+
+<script type="text/javascript">
+
+var myScroll;
+
+function loaded () {
+	myScroll = new IScroll('#wrapper', {
+		scrollbars: true,
+		mouseWheel: true,
+		click: true,
+		interactiveScrollbars: true,
+		shrinkScrollbars: 'scale',
+		fadeScrollbars: true
+	});
+}
+
+document.addEventListener('touchmove', function (e) { e.preventDefault(); }, false);
+
+</script>
+</head>
+<body onload="loaded()">
+
+<div id="wrapper">
+	<div id="scroller" class="wdqb">
+		<header>
+			<img src="images/lrzc.png">
+		</header>
+		<div class="decHeader">
+			<img src="images/bg08.png">
+		</div>
+		<div class="container lrzc">
+			<ul>
+				<li><span>姓名：</span><input name="" id="input" value="" required="required" class="lineInput" placeholder="您的姓名"></li>
+				<li><span>开户银行：</span><input name="" id="input" value="" required="required" class="lineInput" placeholder="您的电话" ></li>
+				<li><span>所在行业： </span><input name="" id="input" value="" required="required" class="lineInput" placeholder="您所在的行业"></li>
+				<li><span>从业时间： </span><input name="" id="input" value="" required="required" class="lineInput" placeholder="从业时间" ></li>
+			</ul>
+			<h4>注：</h4>
+			<ul class="notice">
+				<li>1、星号为必填项；</li>
+				<li>2、请填写真实信息，以便万科核验；</li>
+				<li>3、直接与微信账号绑定注册，请谨慎填写；</li>
+			</ul>
+			
+		</div> <!-- scroller end-->
+		<div class="decFooter">	</div>
+		<div class="confBtn">
+			<a href="" class="btn btn-primary btn-block"> <img src="images/icon05.png">确认提交</a>
+		</div>
+	</div> <!-- container end-->
+</div> <!-- wrapper end-->
+
+<div id="footer">
+	<ul>
+		<li><img src="images/menu1.png"><a href="">悬赏公告栏</a></li>
+		<li><img src="images/menu2.png"><a href="">猎人中心</a></li>
+		<li><img src="images/menu3.png"><a href="">关于我们</a></li>
+	</ul>
+</div>
+
+</body>
+</html>
+
+
+<script src="js/jquery.min.js"></script>
+<script src="js/iscroll.js"></script>
+<script src="js/site.js"></script>
+
+
+

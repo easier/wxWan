@@ -15,6 +15,7 @@ function loaded () {
 	myScroll = new IScroll('#wrapper', {
 		scrollbars: true,
 		mouseWheel: true,
+		click: true,
 		interactiveScrollbars: true,
 		shrinkScrollbars: 'scale',
 		fadeScrollbars: true
@@ -24,41 +25,36 @@ function loaded () {
 document.addEventListener('touchmove', function (e) { e.preventDefault(); }, false);
 
 </script>
-
-<style type="text/css">
-
-
-</style>
 </head>
 <body onload="loaded()">
 
 <div id="wrapper">
-	<div id="scroller" class="xsgg">
-		<h1>
-			<img src="images/bg01.png">
-		</h1>
-		<ul>
-			<li>Pretty row 1</li>
-			<li>Pretty row 2</li>
-			<li>Pretty row 3</li>
-			<li>Pretty row 4</li>
-			<li>Pretty row 5</li>
-			<li>Pretty row 6</li>
-			<li>Pretty row 7</li>
-			<li>Pretty row 8</li>
-			<li>Pretty row 9</li>
-			<li>Pretty row 10</li>
-			<li>Pretty row 11</li>
-			<li>Pretty row 12</li>
-			<li>Pretty row 13</li>
-			<li>Pretty row 14</li>
-			<li>Pretty row 15</li>
-			<li>Pretty row 16</li>
+	<div id="scroller" class="wdqb" style="">
+		<header>
+			<img src="images/wdqb.png">
+		</header>
 
-
-		</ul>
-	</div>
-</div>
+		<div class="container">
+			<dl class="gapList">
+				<dt><span>佣金金额：</span></dt>
+				<dd><span>已经兑现：</span>李小白</dd>
+				<dd><span>可兑佣金：</span></dd>
+			</dl>
+			<div class="gapCont">
+				<ul>
+					<li>开户姓名： <input name="" id="input" value="" required="required" class="lineInput" placeholder="sdfadsa"></li>
+					<li>开户银行： <input name="" id="input" value="" required="required" class="lineInput" ></li>
+					<li>银行卡号： <input name="" id="input" value="" required="required" class="lineInput"  ></li>
+				</ul>
+				<div class="gapFooter">
+					<a href="" class="btn btn-primary">确 定</a>
+				</div>
+			</div> <!-- gapCont end-->
+			<div class="decFooter">	</div>
+			
+		</div> <!-- scroller end-->
+	</div> <!-- container end-->
+</div> <!-- wrapper end-->
 
 <div id="footer">
 	<ul>

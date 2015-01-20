@@ -1,0 +1,53 @@
+doctype html
+html
+	head
+		title index.html
+		meta(charset="UTF-8")
+		meta(name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0")
+		link(rel="stylesheet" href="css/main.css")
+	body(onload="loaded()")
+		#wrap
+			.header
+				img(src="images/bg01.png")
+			.xsgg
+				ul
+					li 123
+					li 223
+					li 333
+					li 444
+					li 555
+					li 666
+					li 777
+					li 888
+					li 999
+					li 101
+					li 101
+					li 101
+					li 101
+					li 101
+					li 101
+					li 101
+					li 101
+					li 101
+					li 101
+					li 101
+					li 101
+
+
+
+<script src="js/jquery.min.js"></script>
+<script src="js/iscroll.js"></script>
+script(type='text/javascript').
+	var myScroll;
+
+	function loaded () {
+		myScroll = new IScroll('#wrapper', {
+			scrollbars: true,
+			mouseWheel: true,
+			interactiveScrollbars: true,
+			shrinkScrollbars: 'scale',
+			fadeScrollbars: true
+		});
+	}
+
+	document.addEventListener('touchmove', function (e) { e.preventDefault(); }, false);
