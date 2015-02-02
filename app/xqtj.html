@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
 
-<title>猎人注册</title>
+<title>详情推荐</title>
 <link rel="stylesheet" type="text/css" href="css/main.css">
 
 <script type="text/javascript">
@@ -31,7 +31,7 @@ document.addEventListener('touchmove', function (e) { e.preventDefault(); }, fal
 <div id="wrapper">
 	<div id="scroller" class="wdqb">
 		<header>
-			<img src="images/lrzc.png">
+			<img src="images/tjxq.png">
 		</header>
 		<div class="decHeader">
 			<img src="images/bg08.png">
@@ -39,10 +39,16 @@ document.addEventListener('touchmove', function (e) { e.preventDefault(); }, fal
 		<div class="container lrzc">
 			<ul>
 				<li><span>姓名：</span><input name="" id="input" value="" required="required" class="lineInput" placeholder="您的姓名"></li>
-				<li><span>开户银行：</span><input name="" id="input" value="" required="required" class="lineInput" placeholder="您的电话" ></li>
-				<li><span>所在行业： </span><input name="" id="input" value="" required="required" class="lineInput" placeholder="您所在的行业"></li>
-				<li>
-					<span>从业时间：</span>
+				<li><span>性别：</span>
+					<div class="seleWrapper">
+						<select name="" id="input" class="" required="required">
+							<option value="">男</option>
+							<option value="">女</option>
+						</select>
+					</div>
+				</li>
+				<li><span>年龄：</span><input name="" id="input" value="" required="required" class="lineInput" placeholder="您的年龄" ></li>
+				<li><span>学历：</span>
 					<div class="seleWrapper">
 						<select name="" id="input" class="" required="required" > 
 							<option value="">硕士</option>
@@ -52,13 +58,14 @@ document.addEventListener('touchmove', function (e) { e.preventDefault(); }, fal
 						</select>
 					</div>
 				</li>
+				<li><span>电话：</span><input name="" id="input" value="" required="required" class="lineInput" placeholder="您的电话" ></li>
+				<li><span>所在公司： </span><input name="" id="input" value="" required="required" class="lineInput" placeholder="您所在的行业"></li>
+				<li><span>现任职位： </span><input name="" id="input" value="" required="required" class="lineInput" placeholder="从业时间" ></li>
 			</ul>
-			<h4>注：</h4>
-			<ul class="notice">
-				<li>1、星号为必填项；</li>
-				<li>2、请填写真实信息，以便万科核验；</li>
-				<li>3、直接与微信账号绑定注册，请谨慎填写；</li>
-			</ul>
+			<div>
+				<span>推荐星级：</span><img src="images/icon11.png" alt=""><img src="images/icon11.png" alt=""><img src="images/icon11.png" alt=""><img src="images/icon11.png" alt="">
+			</div>
+
 			
 		</div> <!-- scroller end-->
 		<div class="decFooter">	</div>

@@ -29,19 +29,24 @@ document.addEventListener('touchmove', function (e) { e.preventDefault(); }, fal
 <body onload="loaded()">
 
 <div id="wrapper">
-	<div id="scroller" class="wdqb" style="">
+	<div id="scroller" class="wdqb">
 		<header>
 			<img src="images/wdqb.png">
 		</header>
 
 		<div class="container">
 			<dl class="gapList">
-				<dt><span>佣金金额：</span></dt>
-				<dd><span>已经兑现：</span>李小白</dd>
-				<dd><span>可兑佣金：</span></dd>
+				<dd><img src="images/icon20.png"><span>佣金总额：</span>￥1500.00</dd>
+				<dd><img src="images/icon21.png"><span style="font-size:12px">待兑换佣金：</span>￥1500.00</dd>
+				<dd><img src="images/icon22.png"><span>可兑佣金：</span>￥1500.00</dd>
 			</dl>
 			<div class="gapCont">
-				<ul>
+				<div class="radio">
+					<a href="" data-value="111">使用原账户</a>
+					<a href="" class ="curr" data-value="222">使用新账户</a>
+				</div>	
+				
+				<ul class="account">
 					<li>开户姓名： <input name="" id="input" value="" required="required" class="lineInput" placeholder="sdfadsa"></li>
 					<li>开户银行： <input name="" id="input" value="" required="required" class="lineInput" ></li>
 					<li>银行卡号： <input name="" id="input" value="" required="required" class="lineInput"  ></li>

@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
 
-<title>主页</title>
+<title>个人中心</title>
 <link rel="stylesheet" type="text/css" href="css/main.css">
 
 <script type="text/javascript">
@@ -15,6 +15,7 @@ function loaded () {
 	myScroll = new IScroll('#wrapper', {
 		scrollbars: true,
 		mouseWheel: true,
+		click: true,
 		interactiveScrollbars: true,
 		shrinkScrollbars: 'scale',
 		fadeScrollbars: true
@@ -29,29 +30,31 @@ document.addEventListener('touchmove', function (e) { e.preventDefault(); }, fal
 <body onload="loaded()">
 
 <div id="wrapper">
-	<div id="scroller">
-		<div class="container">
-			<dl class="gapList">
-				<dt><span>个人信息</span></dt>
-				<dd><span>姓 名：</span>李小白</dd>
-				<dd><span>电话：</span></dd>
-				<dd><span>所属行业：</span></dd>
-				<dd><span>从业时间：</span></dd>
-			</dl>
-			<div class="gapFooter row">
-				<a href="" class="btn btn-primary">修 改</a>
-			</div>
-			<dl class="gapList">
-				<dt>个人信息</dt>
-				<dd>姓名：李小白</dd>
-				<dd>电话</dd>
-				<dd>所属行业</dd>
-				<dd>从业时间</dd>
-			</dl>
-			<div class="gapFooter" style="margin-bottom: 50px">
-				<a href="" class="btn btn-primary">修 改</a>
-			</div>
+	<div id="scroller" class="grzx">
+		<div>
+			<h1>
+				<img src="images/fg.gif">
+			</h1>
+			<p>李小白</p>
+			<article><span><img src="images/icon09.png">积分：200</span><img src="images/icon10.png">等级：银牌</article>
 		</div>
+		<ul>
+			<li> 
+				<a href="">
+					<span><img src="images/icon06.png" alt="">个人中心 </span>  <em></em>
+				</a>
+			</li>
+			<li>
+				<a href="">
+					<span><img src="images/icon07.png" alt="">我的推荐 </span>  <em></em>
+				</a>
+			</li>
+			<li>
+				<a href="">
+					<span><img src="images/icon08.png" alt="">我的钱包 </span>  <em></em>
+				</a>
+			</li>
+		</ul>
 	</div>
 </div>
 

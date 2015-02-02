@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+
+<title>悬赏详情</title>
+<link rel="stylesheet" type="text/css" href="css/main.css">
+
+<script type="text/javascript">
+
+var myScroll;
+
+function loaded () {
+	myScroll = new IScroll('#wrapper', {
+		scrollbars: false,
+		mouseWheel: true,
+		click: true,
+		interactiveScrollbars: true,
+		shrinkScrollbars: 'scale',
+		fadeScrollbars: true
+	});
+}
+
+document.addEventListener('touchmove', function (e) { e.preventDefault(); }, false);
+
+</script>
+
+</head>
+<body onload="loaded()">
+
+<div id="wrapper" style="bottom:0">
+	<div id="scroller" class="xsxq">
+		<div class="head">
+			<p><img src="images/fg.gif"></p>
+			<div><img src="images/bg12.png"></div>
+		</div>
+		<h2>销售经理<span>（营销部)</span>   <time>2014-10-12</time>  </h2>
+		<ul>
+			<li><img src="images/icon15.png">工作性质：全职</li>
+			<li><img src="images/icon16.png">工作地点：重庆 南坪</li>
+			<li><img src="images/icon19.png">薪资范围：面议</li>
+			<li><img src="images/icon17.png">职位类型：市场营销岗</li>
+			<li><img src="images/icon18.png">截至日期：2015-03-18</li>
+		</ul>
+		<dl>
+			<dt><img src="images/icon13.png">工作职责：</dt>
+			<dd><span></span>负责拓展销售渠道，开发新客户，销售公司发行或代销的金融理财产品；</dd>
+			<dd><span></span>负责维护销售渠道，维护老客户，为客户提供理财咨询等服务；</dd>
+			<dd><span></span>负责为客户提供各种综合性基础理财咨询服务；</dd>
+			<dd><span></span>负责完成销售任务目标，销售白银、债券、股票等金融产品。</dd>
+		</dl>
+		<dl>
+			<dt><img src="images/icon14.png">任职职格：</dt>
+			<dd><span></span>专科及以上学历，经济、金融类等相关专业；</dd>
+			<dd><span></span>具有证券公司、银行、保险等金融行业工作经验优先；</dd>
+			<dd><span></span>具有一定的证券、股票和基金相关的金融基础知识；</dd>
+			<dd><span></span>具有广泛的客户资源和金融营销经验者优先考虑；</dd>
+			<dd><span></span>具有较强的沟通能力和客户开发能力；</dd>
+			<dd><span></span>具有很强的工作责任心和良好的人际关系；</dd>
+			<dd><span></span>具有较强的团队合作精神，能承受一定的工作压力。</dd>
+		</dl>
+		<div class="confBtn">
+			<a href="" class="btn btn-primary btn-block" id="popBtn"> <img src="images/icon05.png">我要推荐</a>
+		</div>
+		
+		
+	</div>
+</div>
+
+<div id="popBg">
+	<div id="popWrapper">
+		<div class="decHeader">
+			<img src="images/bg08.png">
+		</div>
+		<div id="popCont">
+			<a class="em close"></a>
+			<span><img src="images/bg16.png"></span>
+			<div>您的积分已不够，请等待万科审核您的推荐信息或查看规则 </div>
+			<p>
+				<a href="" class="btn btn-default close" style="margin-right:16px;">取消</a>
+				<a href="" class="btn btn-primary">注册</a>
+			</p>
+			<p><a href="" class="btn btn-primary" style="width: 180px">注册</a></p>
+		</div>
+		<div class="decFooter">	</div>
+	</div>
+</div>
+
+
+</body>
+</html>
+
+
+<script src="js/jquery.min.js"></script>
+<script src="js/iscroll.js"></script>
+<script src="js/site.js"></script>
+
+
+
